@@ -1,0 +1,20 @@
+.list__app{
+  list-style: none;
+}
+.items__li{
+  text-align: center;
+  width: 300px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: red;
+  margin: 20px 0;
+}
+.items__li--category{
+  color:white;
+  text-align: center;
+  width: 80px;
+  background-color: blue;
+}
+.item__li--title{
+  margin: 20px 0 0 0;
+}
